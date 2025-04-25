@@ -3,6 +3,8 @@
 **`Desenvolvedor com foco em Frontend`**
 
 Me chamo Vinicius Sartre, tenho 21 anos e sou natural de Recife. Concluí o ensino médio no Colégio Visão. Atualmente, estou cursando Sistemas de Informação na Estácio, porém já tenho graduação em Análise e Desenvolvimento de Sistemas pela Faculdade Senac de Pernambuco. Minha jornada na tecnologia começou com algo que sempre fez parte da minha vida: os jogos. Foi jogando, explorando mundos virtuais e entendendo como tudo funcionava por trás da tela que descobri minha paixão por programação e desenvolvimento de software.
+
+<p align="left">
     </a> 
     <a href="https://github.com/ViniciusSartre?tab=repositories&sort=stargazers">
         <img 
